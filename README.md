@@ -1,4 +1,4 @@
 # notes-app-back-end-dev
 
 notes app
-for web
+for web app
